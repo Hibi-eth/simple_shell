@@ -22,7 +22,6 @@ int is_cmd(info_t *info, char *path)
 	return (0);
 }
 
-<<<<<<< HEAD
 /**
  * dup_chars - duplicates characters
  * @pathstr: the PATH string
@@ -85,5 +84,4 @@ char *find_path(info_t *info, char *pathstr, char *cmd)
 	}
 	return (NULL);
 }
-=======
->>>>>>> 52531cfddb363c0ae9b741ae02e2074df0b51639
+
